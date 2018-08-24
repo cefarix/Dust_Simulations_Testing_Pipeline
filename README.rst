@@ -26,6 +26,7 @@ Generating GAN image sets
 
 Run scripts/gen_GAN_images.py in the same directory as the GAN model files to generate image sets from a GAN.
 A real-data image set file needs to be specified in order to retrieve the denormalization information. (This is why scripts/denormprep.py is run on the real-data image set file.)
+
 **Warning** Do NOT run scripts/denormprep.py on GAN generated image set files!
 
 Generating intensity histograms from a GAN
