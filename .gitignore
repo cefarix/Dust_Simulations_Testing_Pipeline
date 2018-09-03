@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Data files
+*.fits
+*.h5
+
 # C extensions
 *.so
 
