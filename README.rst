@@ -5,7 +5,7 @@ Requirements
 * Numpy
 * Scipy
 * h5py
-* minkfncts2d -- https://github.com/cefarix/minkfncts2d
+* minkfncts2d -- https://github.com/moutazhaq/minkfncts2d
 
 Using the Pipeline
 ==================
